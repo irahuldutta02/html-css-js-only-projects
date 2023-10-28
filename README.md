@@ -9,3 +9,5 @@
 ### 004-hidden-search-widget - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/004-hidden-search-widget/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/004-hidden-search-widget/)
 
 ### 005-blurry-loading - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/005-blurry-loading/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/005-blurry-loading/)
+
+### 006-scroll-animation - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/006-scroll-animation/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/006-scroll-animation/)
