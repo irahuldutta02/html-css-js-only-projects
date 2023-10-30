@@ -13,3 +13,5 @@
 ### 006-scroll-animation - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/006-scroll-animation/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/006-scroll-animation/)
 
 ### 007-split-landing-page - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/007-split-landing-page/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/007-split-landing-page/)
+
+### 008-form-wave-animation - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/008-form-wave-animation/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/008-form-wave-animation/)
