@@ -23,3 +23,6 @@
 
 ### 008-form-wave-animation - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/008-form-wave-animation/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/008-form-wave-animation/)
 ![output](./008-form-wave-animation/output.gif)
+
+### 009-sound-board - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/009-sound-board/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/009-sound-board/)
+![output](./009-sound-board/output.gif)
