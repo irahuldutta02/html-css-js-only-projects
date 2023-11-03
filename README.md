@@ -19,3 +19,5 @@
 ### 009-sound-board - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/009-sound-board/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/009-sound-board/)
 
 ### 010-dad-jokes - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/010-dad-jokes/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/010-dad-jokes/)
+
+### 011-event-keycodes - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/011-event-keycodes/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/011-event-keycodes/)
