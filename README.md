@@ -21,3 +21,5 @@
 ### 010-dad-jokes - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/010-dad-jokes/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/010-dad-jokes/)
 
 ### 011-event-keycodes - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/011-event-keycodes/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/011-event-keycodes/)
+
+### 012-faq-collapse - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/012-faq-collapse/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/012-faq-collapse/)
