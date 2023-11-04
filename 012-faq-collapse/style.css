@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?Muli&display=swap');
+@import url("https://fonts.googleapis.com/css2?Mulish&display=swap");
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: 'Muli', sans-serif;
+  font-family: "Mulish", sans-serif;
   background-color: #f0f0f0;
 }
 
@@ -27,15 +27,16 @@ h1 {
   padding: 30px;
   position: relative;
   overflow: hidden;
-  transition: all 0.5s cubic-bezier(0.68,-0.55,0.27,1.55);
+  transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55);
 }
 
-.faq.active{
+.faq.active {
   background-color: white;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1), 0 3px 6px rgba(0, 0, 0, 0.1);
 }
 
-.faq.active::before, .faq.active::after{
+.faq.active::before,
+.faq.active::after {
   content: "\f075";
   font-family: "Font Awesome 5 Free";
   color: #2ecc71;
@@ -47,7 +48,7 @@ h1 {
   z-index: 0;
 }
 
-.faq.active::before{
+.faq.active::before {
   color: #3498db;
   top: -10px;
   left: -10px;
@@ -67,7 +68,7 @@ h1 {
   display: block;
 }
 
-.faq-toggle{
+.faq-toggle {
   background-color: transparent;
   border: 0;
   border-radius: 50%;
@@ -84,26 +85,23 @@ h1 {
   width: 30px;
 }
 
-.faq-toggle:focus{
+.faq-toggle:focus {
   outline: 0;
 }
 
-.faq-toggle .fa-times{
+.faq-toggle .fa-times {
   color: white;
   display: none;
 }
 
-.faq.active .faq-toggle .fa-times{
+.faq.active .faq-toggle .fa-times {
   display: block;
 }
 
-.faq.active .faq-toggle .fa-chevron-down{
+.faq.active .faq-toggle .fa-chevron-down {
   display: none;
 }
 
-.faq.active .faq-toggle{
+.faq.active .faq-toggle {
   background-color: #9fa4a8;
 }
-
-
-

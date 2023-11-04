@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Mulish&display=swap");
 
 :root {
   --line-border-fill: #3498db;
   --line-border-empty: #383838;
-
 }
 
 * {
@@ -12,7 +11,7 @@
 
 body {
   background-color: #1f1f1f;
-  font-family: 'Muli', sans-serif;
+  font-family: "Mulish", sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -35,7 +34,7 @@ body {
 }
 
 .progress-container::before {
-  content: '';
+  content: "";
   background-color: var(--line-border-empty);
   position: absolute;
   top: 50%;
@@ -60,7 +59,7 @@ body {
 
 .circle {
   background-color: #1f1f1f;
-  color:#e2e2e2;
+  color: #e2e2e2;
   border-radius: 50%;
   height: 30px;
   width: 30px;
