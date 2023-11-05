@@ -25,3 +25,5 @@
 ### 012-faq-collapse - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/012-faq-collapse/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/012-faq-collapse/)
 
 ### 013-random-choice-picker - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/013-random-choice-picker/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/013-random-choice-picker/)
+
+### 014-animated-navigation - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/014-animated-navigation/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/014-animated-navigation/)
