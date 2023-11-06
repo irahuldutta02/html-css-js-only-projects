@@ -27,3 +27,5 @@
 ### 013-random-choice-picker - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/013-random-choice-picker/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/013-random-choice-picker/)
 
 ### 014-animated-navigation - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/014-animated-navigation/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/014-animated-navigation/)
+
+### 015-increment-counter - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/015-increment-counter/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/015-increment-counter/)
