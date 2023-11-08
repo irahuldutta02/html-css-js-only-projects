@@ -29,3 +29,5 @@
 ### 014-animated-navigation - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/014-animated-navigation/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/014-animated-navigation/)
 
 ### 015-increment-counter - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/015-increment-counter/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/015-increment-counter/)
+
+### 016-drink-water - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/016-drink-water/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/016-drink-water/)
