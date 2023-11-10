@@ -35,3 +35,5 @@
 ### 017-movie-app - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/017-movie-app/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/017-movie-app/)
 
 ### 018-background-slider- [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/018-background-slider/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/018-background-slider/)
+
+### 019-theme-clock- [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/019-theme-clock/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/019-theme-clock/)
