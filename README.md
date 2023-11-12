@@ -37,3 +37,5 @@
 ### 018-background-slider- [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/018-background-slider/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/018-background-slider/)
 
 ### 020-button-ripple-effect- [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/020-button-ripple-effect/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/020-button-ripple-effect/)
+
+### 021-drag-n-drop- [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/021-drag-n-drop/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/021-drag-n-drop/)
