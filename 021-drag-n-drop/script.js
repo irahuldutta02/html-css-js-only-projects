@@ -35,5 +35,5 @@ function dragleave() {
 
 function dragDrop() {
   this.className = "empty";
-  this.appendChild(fill);
+  this.append(fill);
 }
