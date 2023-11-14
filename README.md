@@ -40,4 +40,6 @@
 
 ### 021-drag-n-drop- [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/021-drag-n-drop/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/021-drag-n-drop/)
 
-### 023-drawing-app- [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/023-drawing-app/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/023-drawing-app/)
+### 022-drawing-app- [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/022-drawing-app/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/022-drawing-app/)
+
+### 023-kinetic-css-loader- [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/023-kinetic-css-loader/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/023-kinetic-css-loader/)
