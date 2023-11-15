@@ -43,3 +43,5 @@
 ### 022-drawing-app - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/022-drawing-app/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/022-drawing-app/)
 
 ### 023-kinetic-css-loader - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/023-kinetic-css-loader/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/023-kinetic-css-loader/)
+
+### 024-content-placeholder - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/024-content-placeholder/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/024-content-placeholder/)
