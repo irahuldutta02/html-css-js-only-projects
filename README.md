@@ -45,3 +45,5 @@
 ### 023-kinetic-css-loader - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/023-kinetic-css-loader/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/023-kinetic-css-loader/)
 
 ### 024-content-placeholder - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/024-content-placeholder/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/024-content-placeholder/)
+
+### 025-sticky-navbar - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/025-sticky-navbar/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/025-sticky-navbar/)
