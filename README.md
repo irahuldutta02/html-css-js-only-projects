@@ -47,3 +47,5 @@
 ### 024-content-placeholder - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/024-content-placeholder/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/024-content-placeholder/)
 
 ### 025-sticky-navbar - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/025-sticky-navbar/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/025-sticky-navbar/)
+
+### 026-vertical-sidebar - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/026-vertical-sidebar/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/026-vertical-sidebar/)
