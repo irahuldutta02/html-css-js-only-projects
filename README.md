@@ -48,4 +48,4 @@
 
 ### 025-sticky-navbar - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/025-sticky-navbar/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/025-sticky-navbar/)
 
-### 026-vertical-sidebar - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/026-vertical-sidebar/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/026-vertical-sidebar/)
+### 026-vertical-slider - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/026-vertical-slider/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/026-vertical-slider/)
