@@ -55,3 +55,5 @@
 ### 028-github-profiles - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/028-github-profiles/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/028-github-profiles/)
 
 ### 029-double-click-heart - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/029-double-click-heart/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/029-double-click-heart/)
+
+### 030-auto-text-effect - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/030-auto-text-effect/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/030-auto-text-effect/)
