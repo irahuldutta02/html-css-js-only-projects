@@ -59,3 +59,5 @@
 ### 030-auto-text-effect - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/030-auto-text-effect/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/030-auto-text-effect/)
 
 ### 031-random-password - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/031-random-password/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/031-random-password/)
+
+### 032-good-cheap-fast - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/032-good-cheap-fast/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/032-good-cheap-fast/)
