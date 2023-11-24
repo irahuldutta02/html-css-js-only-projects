@@ -61,3 +61,5 @@
 ### 031-random-password - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/031-random-password/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/031-random-password/)
 
 ### 032-good-cheap-fast - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/032-good-cheap-fast/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/032-good-cheap-fast/)
+
+### 033-notes-app- [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/033-notes-app/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/033-notes-app/)
