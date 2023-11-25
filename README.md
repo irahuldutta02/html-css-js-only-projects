@@ -62,4 +62,6 @@
 
 ### 032-good-cheap-fast - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/032-good-cheap-fast/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/032-good-cheap-fast/)
 
-### 033-notes-app- [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/033-notes-app/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/033-notes-app/)
+### 033-notes-app - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/033-notes-app/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/033-notes-app/)
+
+### 034-animated-countdown - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/034-animated-countdown/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/034-animated-countdown/)
