@@ -65,3 +65,15 @@
 ### 033-notes-app - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/033-notes-app/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/033-notes-app/)
 
 ### 034-animated-countdown - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/034-animated-countdown/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/034-animated-countdown/)
+
+### 035-image-carousel - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/035-image-carousel/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/035-image-carousel/)
+
+### 036-hoverboard - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/036-hoverboard/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/036-hoverboard/)
+
+### 037-pokedex - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/037-pokedex/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/037-pokedex/)
+
+### 038-mobile-tab-navigation - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/038-mobile-tab-navigation/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/038-mobile-tab-navigation/)
+
+### 039-password-strength-background - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/039-password-strength-background/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/039-password-strength-background/)
+
+### 040-3d-background-boxes - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/040-3d-background-boxes/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/040-3d-background-boxes/)
