@@ -79,3 +79,5 @@
 ### 040-3d-background-boxes - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/040-3d-background-boxes/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/040-3d-background-boxes/)
 
 ### 041-verify-account-ui - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/041-verify-account-ui/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/041-verify-account-ui/)
+
+### 042-live-user-filter - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/042-live-user-filter/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/042-live-user-filter/)
