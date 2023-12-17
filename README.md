@@ -83,3 +83,5 @@
 ### 042-live-user-filter - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/042-live-user-filter/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/042-live-user-filter/)
 
 ### 043-feedback-ui-design - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/043-feedback-ui-design/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/043-feedback-ui-design/)
+
+### 044-custom-range-slider - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/044-custom-range-slider/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/044-custom-range-slider/)
