@@ -95,3 +95,5 @@
 ### 048-random-image-generator - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/048-random-image-generator/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/048-random-image-generator/)
 
 ### 049-todo-list - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/049-todo-list/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/049-todo-list/)
+
+### 050-insect-catch-game - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/050-insect-catch-game/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/050-insect-catch-game/)
