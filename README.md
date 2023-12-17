@@ -89,3 +89,5 @@
 ### 045-netflix-mobile-navigation - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/045-netflix-mobile-navigation/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/045-netflix-mobile-navigation/)
 
 ### 046-quiz-app - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/046-quiz-app/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/046-quiz-app/)
+
+### 047-testimonial-box-switcher - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/047-testimonial-box-switcher/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/047-testimonial-box-switcher/)
