@@ -85,3 +85,5 @@
 ### 043-feedback-ui-design - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/043-feedback-ui-design/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/043-feedback-ui-design/)
 
 ### 044-custom-range-slider - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/044-custom-range-slider/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/044-custom-range-slider/)
+
+### 045-netflix-mobile-navigation - [Code](https://github.com/irahuldutta02/html-css-js-only-projects/tree/main/045-netflix-mobile-navigation/) | [Live](https://irahuldutta02.github.io/html-css-js-only-projects/045-netflix-mobile-navigation/)
